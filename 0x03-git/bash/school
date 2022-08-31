@@ -1,9 +1,2 @@
-#!/bin/bash
-echo "The School is open"
-:w
-:x
-:x
-i:x
-:q
-
+echo "The school is open!"
 
